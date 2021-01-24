@@ -1,2 +1,3 @@
 # leetcode_exercises
-List of LeetCode with my resolves
+List of LeetCode with my solutions.
+
